@@ -1,0 +1,3 @@
+[submodule "htmx/php"]
+	path = htmx/php
+	url = git@github.com:peteralieber/nodes-htmx-php.git
